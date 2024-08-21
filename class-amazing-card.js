@@ -1,5 +1,5 @@
-import Card from "/class-card.js";
-import handleCardClick from "/main.js";
+import Card from './class-card.js';
+import handleCardClick from './main.js';
 
 export default class AmazingCard extends Card {
   createElement() {
