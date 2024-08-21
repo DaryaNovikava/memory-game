@@ -1,5 +1,5 @@
-import Card from './class-card';
-import AmazingCard from './class-amazing-card';
+import Card from './class-card.js';
+import AmazingCard from './class-amazing-card.js';
 
 let numberOfPairs = null;
 let firstCard = null;
